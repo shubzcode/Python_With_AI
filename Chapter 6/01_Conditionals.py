@@ -1,3 +1,4 @@
+# if else ladder
 a = int(input("Enter your Age : "))
 
 if(a>=18):
