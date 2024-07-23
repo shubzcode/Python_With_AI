@@ -5,7 +5,7 @@ if(a%2 == 0):
 if(a>=18):
     print("You are aboe the age of concent")
     print("good to you")
-
+    
 else:
     print("You are below age")
     
